@@ -1,7 +1,5 @@
 package Emp;
 import java.util.Random;
-package Emp;
-import java.util.Random;
 
 public class DailyEmpWage {
 	public static void main(String[] args) 
